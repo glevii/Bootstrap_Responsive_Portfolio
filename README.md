@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-- [Description]
-- [Usage]
-- [Links]
-- [Questions]
+- [Description] (#description)
+- [Usage] (#usage)
+- [Links] (#links)
+- [Questions] (#questions)
 
 
 ## Description
