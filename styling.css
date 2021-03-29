@@ -51,12 +51,6 @@ background-color: lightgray;
     margin-left: 35px;
 }
 
-.portfolio {
-    background-color: white;
-    width: 60%;
-    margin-left: 35px;
-}
-
 .content {
     margin-bottom: 200px;
 }
@@ -75,6 +69,24 @@ footer {
     border-color: teal;
     border-top-width: thick;
   }
+
+/* Portfolio */
+
+.images {
+    margin: 20px;
+}
+
+.portImage {
+    width: 150px;
+    height: 120px;
+}
+
+.portfolio {
+    background-color: white;
+    width: 35%;
+    margin-left: 35px;
+    margin-bottom: 200px;
+}
 
   @media screen and (max-width: 320px) {
     .about-image {
