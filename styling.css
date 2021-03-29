@@ -102,26 +102,6 @@ footer {
     border-color: teal;
 }
 
-  @media screen and (max-width: 320px) {
-    .about-image {
-      width: 100%;
-
-    }
-
-    .navbar-brand {
-        width: 100%;
-        margin-left: 0px !important;
-        text-align: center;
-    }
-
-    #navbarSupportedContent {
-        position: static;
-        margin: 0 auto;
-        display: flex;
-        justify-content: center;
-    }
-}
-
 @media screen and (max-width: 640px) {
     .aboutMe, .portfolio {
         width: 100%;
