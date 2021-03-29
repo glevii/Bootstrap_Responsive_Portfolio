@@ -88,6 +88,20 @@ footer {
     margin-bottom: 200px;
 }
 
+/* Contact */
+
+.contact {
+    background-color: white;
+    width: 60%;
+    margin-left: 35px;
+    margin-bottom: 200px;  
+}
+
+.submitBtn {
+    background-color: teal;
+    border-color: teal;
+}
+
   @media screen and (max-width: 320px) {
     .about-image {
       width: 100%;
